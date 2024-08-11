@@ -1,0 +1,6 @@
+5
+A A A * A 
+* A A A A 
+A * * * * 
+* A * A * 
+A A A A A 
